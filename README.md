@@ -40,15 +40,13 @@
 - There is one checkout button that will take the user to the checkout.
 ![image](https://github.com/pkthapliyal/Shopzone/assets/121335947/b489de0d-7e62-4f00-9fe9-ca97ca99b175)
 
+
 ## Checkout page
 - This page has a form in which a user can fill his details and continue to get invoices.
   ![image](https://github.com/pkthapliyal/Shopzone/assets/121335947/07b1e4e3-f590-4606-b315-7c838a7b00a4)
 
-## Invoice Page
-- This page has an invoice that contains all the products, quantity and their price, digital signature, and timestamp.
-  ![image](https://github.com/pkthapliyal/Shopzone/assets/121335947/c666a769-f6dc-4e23-a564-a48ca785509c)
 
+## Invoice page: 
+- This page has an invoice that contains all the details of the products, quantity, prices, digital signature, and timestamp.
+  ![image](https://github.com/pkthapliyal/Shopzone/assets/121335947/a1ce11df-1e29-4b62-be36-23fb72e19258)
 
-## Checkout page: 
-- This page has a checkout form for filling in the bank details and an invoice which you can download with the help of a download button. This invoice has all the details of the products and their prices.
-  ![image](https://github.com/pkthapliyal/pushy-feeling-2669/assets/121335947/dd4204d4-a151-457a-bd9e-698600d492f8)
