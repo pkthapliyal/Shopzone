@@ -4,4 +4,4 @@
 -  Snapdeal hosts a wide selection of good quality, value-priced merchandise across fashion, home, beauty & personal care, general merchandise, and other categories. 
 
 ## Netlify Deploy Link: 
-- `https://busy-cough-2191-fp10-063.netlify.app/
+- https://busy-cough-2191-fp10-063.netlify.app/
